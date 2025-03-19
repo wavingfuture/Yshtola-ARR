@@ -248,11 +248,11 @@ assets:
   - name: remastered/obj/P_EX100_WI.mdlx/-0.dds
   - name: remastered/obj/P_EX100_TR.mdlx/-0.dds
   - name: remastered/obj/P_EX100_XM.mdlx/-0.dds
-  - name: remastered/obj/H_EX500.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_NM.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_TR.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_WI.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_XM.mdlx/-0.dds
+  - name: remastered/obj/H_EX500.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_NM.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_TR.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_WI.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_XM.mdlx/-1.dds
   method: copy
   source:
   - name: Texture/KH2/1.png
@@ -266,61 +266,61 @@ assets:
   - name: remastered/obj/P_EX100_WI.mdlx/-1.dds
   - name: remastered/obj/P_EX100_TR.mdlx/-1.dds
   - name: remastered/obj/P_EX100_XM.mdlx/-1.dds
-  - name: remastered/obj/H_EX500.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_NM.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_TR.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_WI.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_XM.mdlx/-1.dds
+  - name: remastered/obj/H_EX500.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_NM.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_TR.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_WI.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_XM.mdlx/-0.dds
   - name: remastered/obj/P_EX100_BTLF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_NM_BTLF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_TR_BTLF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_XM_BTLF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_BTLF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_NM_BTLF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_TR_BTLF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_WI_BTLF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_BTLF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_NM_BTLF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_TR_BTLF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_WI_BTLF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_NM_MAGF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_TR_MAGF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_XM_MAGF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_MAGF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_NM_MAGF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_TR_MAGF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_WI_MAGF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_XM_MAGF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_MAGF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_NM_MAGF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_TR_MAGF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_WI_MAGF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_XM_MAGF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_TRIF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_NM_TRIF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_TR_TRIF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_XM_TRIF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_TRIF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_NM_TRIF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_TR_TRIF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_TRIF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_NM_TRIF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_TR_TRIF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_ULTF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_NM_ULTF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_TR_ULTF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_XM_ULTF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_ULTF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_NM_ULTF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_TR_ULTF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_WI_ULTF.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_XM_ULTF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_ULTF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_NM_ULTF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_TR_ULTF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_WI_ULTF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_XM_ULTF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_KH1F.mdlx/-1.dds
   - name: remastered/obj/P_EX100_NM_KH1F.mdlx/-1.dds
   - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-1.dds
   - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-1.dds
   - name: remastered/obj/P_EX100_XM_KH1F.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_KH1F.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_NM_KH1F.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_TR_KH1F.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_WI_KH1F.mdlx/-1.dds
-  - name: remastered/obj/H_EX500_XM_KH1F.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_KH1F.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_NM_KH1F.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_TR_KH1F.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_WI_KH1F.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_XM_KH1F.mdlx/-0.dds
   - name: remastered/obj/P_EX100_HTLF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_NM_HTLF.mdlx/-1.dds
   - name: remastered/obj/P_EX100_WI_HTLF.mdlx/-1.dds
@@ -426,11 +426,11 @@ assets:
   - name: remastered/obj/P_EX100_WI_BTLF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_TR_BTLF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_XM_BTLF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_BTLF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_NM_BTLF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_TR_BTLF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_WI_BTLF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_BTLF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_NM_BTLF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_TR_BTLF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_WI_BTLF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_XM_BTLF.mdlx/-1.dds
   method: copy
   source:
   - name: Texture/KH2/Valor.png
@@ -441,11 +441,11 @@ assets:
   - name: remastered/obj/P_EX100_WI_MAGF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_TR_MAGF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_XM_MAGF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_MAGF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_NM_MAGF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_TR_MAGF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_WI_MAGF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_XM_MAGF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_MAGF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_NM_MAGF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_TR_MAGF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_WI_MAGF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_XM_MAGF.mdlx/-1.dds
   method: copy
   source:
   - name: Texture/KH2/Wisdom.png
@@ -456,11 +456,11 @@ assets:
   - name: remastered/obj/P_EX100_WI_TRIF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_TR_TRIF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_XM_TRIF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_TRIF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_NM_TRIF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_TR_TRIF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_TRIF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_NM_TRIF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_TR_TRIF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_WI_TRIF.mdlx/-1.dds
   method: copy
   source:
   - name: Texture/KH2/Master.png
@@ -471,11 +471,11 @@ assets:
   - name: remastered/obj/P_EX100_WI_ULTF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_TR_ULTF.mdlx/-0.dds
   - name: remastered/obj/P_EX100_XM_ULTF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_ULTF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_NM_ULTF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_TR_ULTF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_WI_ULTF.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_XM_ULTF.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_ULTF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_NM_ULTF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_TR_ULTF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_WI_ULTF.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_XM_ULTF.mdlx/-1.dds
   method: copy
   source:
   - name: Texture/KH2/Final.png
@@ -486,11 +486,11 @@ assets:
   - name: remastered/obj/P_EX100_WI_KH1F.mdlx/-0.dds
   - name: remastered/obj/P_EX100_TR_KH1F.mdlx/-0.dds
   - name: remastered/obj/P_EX100_XM_KH1F.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_KH1F.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_NM_KH1F.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_TR_KH1F.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_WI_KH1F.mdlx/-0.dds
-  - name: remastered/obj/H_EX500_XM_KH1F.mdlx/-0.dds
+  - name: remastered/obj/H_EX500_KH1F.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_NM_KH1F.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_TR_KH1F.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_WI_KH1F.mdlx/-1.dds
+  - name: remastered/obj/H_EX500_XM_KH1F.mdlx/-1.dds
   method: copy
   source:
   - name: Texture/KH2/Limit.png
