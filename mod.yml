@@ -4,6 +4,17 @@ description: Play the full game as Y'shtola from FFXIV, staying comfy in her ori
 game: kh2
 dependencies: 
 assets:
+# Moose because for some reason THIS MOD ONLY crashes when changing keyblades
+- name: dll/KH2Moose.dll
+  method: copy
+  platform: pc
+  source:
+  - name: KH2Moose.dll
+- name: dll/KH2Moose.ini
+  method: copy
+  platform: pc
+  source:
+  - name: KH2Moose.ini
 # KH1 low poly
 - name: obj/P_EX120.mdlx
   multi:
